@@ -1,0 +1,5 @@
+Finance,Corp_Finance_Secure,Fi$n4nc3!99#
+Marketing,Corp_Marketing_Secure,Mktg*Grow!2026
+IT,Corp_IT_Secure,1T_D3v_@ccess!
+Operations,Corp_Operations_Secure,0p3r4ti0n5_W1f1
+Guest,Corp_Guests,WelcomeToCorp2026
